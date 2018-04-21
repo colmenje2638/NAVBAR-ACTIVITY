@@ -1,0 +1,17 @@
+#headerpicture {
+    color:blue;
+    font-size: 36px;
+    background-image:url("../assets/picture12.png");
+    height:600px;
+    background-repeat: no-repeat;
+}
+h1 {
+    color:blueviolet;
+    font-size: 36px;
+}
+.navbar-toggler-icon {
+    margin:150px;
+}
+.btn {
+    margin:0x;
+}
